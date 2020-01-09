@@ -1,7 +1,7 @@
-bbbd980f6208505fe180ee131a2dd258 *DESCRIPTION
+dd81ecec9b5d5a9800b3e7165f360520 *DESCRIPTION
 ce957e15763fffe4401d8a58d68f3eff *NAMESPACE
-f461dfecde6c0c42417820eaf53ebb90 *R/SpecFunctions_Final3.R
-a7fbae1f5bd994724ff1e831d32ca1ba *README.md
+dbf8b260a45a7285c2df779f4051865d *R/SpecFunctions_Final3.R
+b8ad25af3f364de4bcacc7a632b76550 *README.md
 11c44a60bfc6a92cda6c6ed7e4ef7e07 *inst/extdata/DataDescription.R
 fc0427193c10d05505793772b63f3655 *inst/extdata/SpeciesA_StrainX_1.mzXML
 8fda504bc82025fe9482beb050438d12 *inst/extdata/SpeciesA_StrainX_2.mzXML
@@ -34,11 +34,11 @@ fdb6fc23f56fcb467614a238371ed936 *man/filtermass.Rd
 cc59ea7b79edaf9f9573404e05887302 *man/gather_summary.Rd
 b1d698172dc47055b107b9625118316f *man/gather_summary_file.Rd
 4c7e8eda6ce28d9ba070ff6bd4845312 *man/preprocessMS.Rd
-6679004e0a3a589eaf2cb02bcdc70007 *man/process_monospectra.Rd
-299638f0dafad2668303a6c493367b75 *man/simulate_ind_spec_single.Rd
-8a24d756901daa11aa5bafeda2761687 *man/simulate_many_poly_spectra.Rd
+8b357f0c23e2577bb29f0f1885d429b6 *man/process_monospectra.Rd
+4f0d6ebbe318427c130e56b54efc4db0 *man/simulate_ind_spec_single.Rd
+75d44c66bfc6d5dd03b0252ab206bd97 *man/simulate_many_poly_spectra.Rd
 54b4da96a6cae5981e62318b8756cb3b *man/simulate_poly_spectra.Rd
 1b509b85c826d741c04eba622c89af3a *man/summarize_monospectra.Rd
-9fc0dc7ea4c11703515e69b361d6b08e *man/summary_mono.Rd
+12fc2d1a433040dea7cf4583dda54874 *man/summary_mono.Rd
 cb2ff141918604fc52b29485788aeb79 *tests/testthat.R
 33ee544cda6b4f53bbd5c06d15c44733 *tests/testthat/test.under_development.R
